@@ -1,2 +1,2 @@
-imporkt streamlit
+import streamlit
 streamlit.title('My Parent's Healty Diner')
